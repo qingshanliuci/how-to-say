@@ -2,7 +2,6 @@
 
 > 一套给职场新人的表达原则体系，帮你从"靠感觉说话"变成"有标准地表达"。
 >
-> 兼容 [OpenClaw](https://openclawlab.com)（小龙虾）、[Claude Code](https://docs.anthropic.com/en/docs/claude-code)、[OpenAI Codex CLI](https://developers.openai.com/codex/cli) 三大 AI 编程助手。
 
 ---
 

@@ -68,41 +68,61 @@ AI 会给你一个结构：
 
 ---
 
-## 怎么装
+## 1 分钟装好，马上能用
 
-### 龙虾（OpenClaw）用户——最简单
+### 龙虾（OpenClaw）用户
 
-在龙虾里搜索 **how-to-say**，点击安装就行。
+> 大部分人用这个方式，不需要任何技术基础。
 
-装完之后直接在对话里说"帮我准备发言"或者"帮我改改这段话"，就会自动激活。
+**第一步**：打开你的龙虾（飞书里那个 AI 助手）
 
-### Claude Code 用户
+**第二步**：找到技能商店
+- 在龙虾对话界面，点左下角的 **「技能」** 按钮
+- 进入技能商店页面
+
+**第三步**：搜索安装
+- 在搜索框输入 **how-to-say**
+- 找到「职场表达教练」，点 **「安装」**
+- 等几秒钟，看到"安装成功"就完成了
+
+**第四步**：直接用
+- 回到龙虾对话框
+- 打字：**"帮我准备明天的汇报"**
+- 它就变成你的表达教练了
+
+就这么简单。不需要做任何其他设置。
+
+> 💡 **小提示**：你不用刻意去"打开"这个技能。装好之后，只要你说的话跟"怎么说话"有关，它就自动出来帮你。就像请了一个随叫随到的教练。
+
+### 其他平台用户
 
 <details>
-<summary>点击展开安装步骤</summary>
+<summary>Claude Code 用户（点击展开）</summary>
 
+在终端执行：
 ```bash
-# 完整版
+# 完整版（推荐）
 git clone https://github.com/qingshanliuci/how-to-say.git
 cp -r how-to-say/skill/ ~/.claude/skills/how-to-say/
 
-# 精简版
+# 或只装精简版
+mkdir -p ~/.claude/skills/how-to-say-lite
 cp how-to-say/skill-lite/SKILL.md ~/.claude/skills/how-to-say-lite/SKILL.md
 ```
 
 </details>
 
-### Codex CLI 用户
-
 <details>
-<summary>点击展开安装步骤</summary>
+<summary>Codex CLI 用户（点击展开）</summary>
 
+在终端执行：
 ```bash
-# 完整版
+# 完整版（推荐）
 git clone https://github.com/qingshanliuci/how-to-say.git
 cp -r how-to-say/skill/ .agents/skills/how-to-say/
 
-# 精简版
+# 或只装精简版
+mkdir -p .agents/skills/how-to-say-lite
 cp how-to-say/skill-lite/SKILL.md .agents/skills/how-to-say-lite/SKILL.md
 ```
 
@@ -110,19 +130,29 @@ cp how-to-say/skill-lite/SKILL.md .agents/skills/how-to-say-lite/SKILL.md
 
 ---
 
-## 你不用记任何命令
+## 装好之后，像跟朋友说话就行
 
-装好之后，用自然语言说话就行：
+不用记任何口令。你怎么说话，它就怎么帮你。
 
-| 你想做什么 | 直接这样说 |
-|-----------|-----------|
-| 准备汇报 | "帮我准备明天的汇报" |
-| 改一段话 | "帮我改改这段话" |
-| 准备面试 | "面试怎么回答这个问题" |
-| 开会发言 | "明天开会我该怎么说" |
-| 英文场景 | "help me prepare for 1-on-1" |
-| 查看成长 | "我的表达报告"（完整版） |
-| 换了老板 | "换了老板"（完整版，会重新适配） |
+**要准备汇报？**
+> "帮我准备明天的汇报，要跟领导说上周的进度"
+
+**有段话想改好？**
+> "帮我改改这段话：……"（直接把你写的贴进去）
+
+**面试要用？**
+> "面试官问我为什么跳槽，我怎么回答比较好"
+
+**明天要在会上发言？**
+> "明天周会我想提一个问题，怎么说比较专业"
+
+**英文场景也行：**
+> "help me prepare for tomorrow's 1-on-1 with my manager"
+
+**用了完整版的话，还可以：**
+> "换了新老板" → 它会重新了解你老板的风格，调整建议
+>
+> "我的表达报告" → 看看你这段时间的进步和接下来该练什么
 
 ---
 

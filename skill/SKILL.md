@@ -1,6 +1,10 @@
 ---
 name: how-to-say
 description: Use when preparing for workplace speaking scenarios - meetings, presentations, interviews, status reports, or improving professional communication. Triggers on "帮我准备发言", "怎么说", "how to say", "职场表达", "汇报准备", "面试准备", "开会发言", "表达教练".
+version: 1.0.0
+metadata:
+  openclaw:
+    invocationKey: how-to-say
 ---
 
 # How to Say — 职场表达教练

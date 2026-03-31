@@ -344,3 +344,65 @@
 ### 70. 表达成熟的标志不是"会说很多"，而是"该短时能短，该重时能重"
 
 这才是职业表达。
+
+---
+
+## 九、英文职场场景原则
+
+### A. 1-on-1 with Manager
+
+#### 71. Structure your update: wins → blockers → asks
+
+Don't ramble. Three buckets: what went well, what's stuck, what you need.
+Keep each bucket to 2-3 sentences max.
+
+#### 72. "I'd like your input on..." beats "I have a problem"
+
+Frame asks as collaborative, not helpless. Your manager wants to coach, not rescue.
+
+#### 73. Own your development narrative
+
+In career conversations: "I want to grow toward X, and I'm doing Y to get there."
+Don't wait for your manager to define your path — propose it, then ask for feedback.
+
+### B. Stand-up / Sync
+
+#### 74. Yesterday → Today → Blockers. Done.
+
+Nobody needs your thought process. Three sentences max.
+If there's nothing to flag, say "no blockers" and stop talking.
+
+#### 75. Flag risks early, don't wait for them to become emergencies
+
+"Heads up — I might need help with X by Thursday."
+Early warnings build trust. Surprises destroy it.
+
+### C. Performance Review / Quarterly Review
+
+#### 76. Lead with impact, not activity
+
+"Shipped X which improved Y by Z%" beats "Worked on X for 3 months."
+Activity is not achievement. Always connect your work to outcomes.
+
+#### 77. Quantify everything you can
+
+Hours saved, revenue impacted, bugs prevented, users affected.
+If you can't quantify, qualify: "before → after" comparisons work too.
+
+#### 78. Own your gaps before they own you
+
+"One area I'm improving: X. Here's what I'm doing about it."
+Self-awareness + action plan = credibility. Denial or surprise = red flag.
+
+### D. Cross-cultural Communication
+
+#### 79. 中英混合汇报：用英文报数据，用中文报判断
+
+数据用英文更精确（"conversion rate improved 12% WoW"），判断用母语更有说服力（"我的判断是这个方向值得加大投入"）。
+跨国团队汇报时，数字和事实用英文确保无歧义，分析和建议可以用最舒服的语言。
+
+#### 80. 跨国团队：先说结论，再补 context
+
+全球通用原则：respect people's time across time zones.
+不同文化对铺垫的容忍度不同，但**没有任何文化喜欢听 5 分钟铺垫才等到重点**。
+在异步沟通（Slack/email）中尤其重要：第一句就给结论，细节放后面。
